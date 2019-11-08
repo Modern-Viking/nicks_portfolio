@@ -1,6 +1,35 @@
 header{
-    background-color:#ffffff
+    background-color:#ffffff;
+    width:100%;
+    height:100px;
+    padding:0px;
+    margin:0px;
 }
 body{
-    background-color:#ffffff
+    background-color:#000000;
+}
+img{
+    height:300px;
+    width:220px;
+}
+h1{
+    color:#ffffff;
+    background-color:#4aaaa5;
+    padding:10px;
+    margin-right:1100px;
+}
+h2{
+    color:#4aaaa5;
+}
+p{
+    
+}
+footer{
+
+}
+div{
+    background-color:#ffffff;
+}
+.links{
+
 }
