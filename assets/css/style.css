@@ -1,21 +1,20 @@
 header{
-    text-align:right;
     background-color:#ffffff;
     width:100%;
     height:100%;
     padding:0px;
     margin:0px;
     border-width:2px #cccccc;
-   
 }
 
 body{
-    background-color:#eee;
+    background-image:url("assets\images\christmas-dark.png");
 }
 
 img{
     height:300px;
     width:220px;
+    margin:10px 0px 10px 10px;
 }
 
 h1{
@@ -32,7 +31,7 @@ h2{
 }
 
 p{
-    vertical-align:text-top;
+    float:right;
 }
 
 footer{
@@ -41,24 +40,9 @@ footer{
 
 div{
     background-color:#ffffff;
-    height:860px;
-    width:80%;
-    
 }
 
-#about{
-    text-decoration:none;
-    color:#777777;
-    padding:10px
-}
-
-#portfolio{
-    text-decoration:none;
-    color:#777777;
-    padding:10px
-}
-
-#contact{
+.links{
     text-decoration:none;
     color:#777777;
     padding:10px
@@ -66,4 +50,7 @@ div{
 
 hr{
     width:90%
+}
+li{
+    display:inline-block;
 }
