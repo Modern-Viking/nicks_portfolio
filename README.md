@@ -4,22 +4,22 @@ A Coding Portfolio for Nick Thomas
 
 ## Contents
 
-* (About Me)
-* (Portfolio)
-* (Contact)
+* About Me
+* Portfolio
+* Contact
 
-## instructions
+## Instructions
 
 Use the navigation bar at the top of each page to change which page you are on.
 
 ## Credits
 
 A big shout out to those who made this website possible. I appreciate all of your help to set this up!
-* (https://github.com/jbejar)
-* (https://github.com/jrheap)
-* (https://github.com/Nidant)
-* (http://placehold.jp/)
-* (https://www.toptal.com/designers/subtlepatterns/?s=christmas)
+* https://github.com/jbejar
+* https://github.com/jrheap
+* https://github.com/Nidant
+* http://placehold.jp/
+* https://www.toptal.com/designers/subtlepatterns/?s=christmas
 
 ## License
 
