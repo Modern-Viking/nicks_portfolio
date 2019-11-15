@@ -1,17 +1,19 @@
 # Nicks Portfolio
 
-A Coding Portfolio for Nick Thomas
+## Description
+
+This is a Coding Portfolio for Nick Thomas made as an assignment for a coding bootcamp.
 
 ### [Link to Deployed Website](https://modern-viking.github.io/nicks_portfolio/)
 
 ## Contents
 
 * About Me:
-![alt text](assets\images\aboutme.png "About Me)
+
 * Portfolio:
-!(assets\images\portfolio.png "Portfolio)
+
 * Contact:
-!(assets\images\contact.png "Contact)
+
 
 ## Instructions
 
