@@ -7,7 +7,7 @@ A Coding Portfolio for Nick Thomas
 ## Contents
 
 * About Me:
-!(assets\images\aboutme.png "About Me)
+![alt text](assets\images\aboutme.png "About Me)
 * Portfolio:
 !(assets\images\portfolio.png "Portfolio)
 * Contact:
