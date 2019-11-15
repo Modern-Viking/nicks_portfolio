@@ -54,13 +54,13 @@ nav{
 
 #about{
     position:relative;
-    top:50px;
+    top:30px;
     background-color:#ffffff;
     width:960px;
     clear:both;
     overflow:auto;
     margin: 0 auto;
-    height:750px;
+    height:575px;
     border: 3px solid #dddddd
 }
 
@@ -74,7 +74,7 @@ h2{
 section{
     max-width:866px;
     margin:0 auto;
-    height:80%;
+    height:60%;
 }
 
 img{

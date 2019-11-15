@@ -2,11 +2,16 @@
 
 A Coding Portfolio for Nick Thomas
 
+### [Link to Deployed Website](https://modern-viking.github.io/nicks_portfolio/)
+
 ## Contents
 
-* About Me
-* Portfolio
-* Contact
+* About Me:
+(assets\images\aboutme.png "About Me)
+* Portfolio:
+(assets\images\portfolio.png "Portfolio)
+* Contact:
+(assets\images\contact.png "Contact)
 
 ## Instructions
 
