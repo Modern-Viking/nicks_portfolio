@@ -12,10 +12,10 @@ This is a Coding Portfolio for Nick Thomas made as an assignment for a coding bo
 ![Screenshot](https://github.com/Modern-Viking/nicks_portfolio/blob/master/assets/images/aboutme.png?raw=true)
 
 * Portfolio:
-
+![Screenshot](https://github.com/Modern-Viking/nicks_portfolio/blob/master/assets/images/portfolio.png?raw=true)
 
 * Contact:
-
+![Screenshot](https://github.com/Modern-Viking/nicks_portfolio/blob/master/assets/images/contact.png?raw=true)
 
 ## Instructions
 
