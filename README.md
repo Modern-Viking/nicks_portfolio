@@ -9,8 +9,10 @@ This is a Coding Portfolio for Nick Thomas made as an assignment for a coding bo
 ## Contents
 
 * About Me:
+![Alt Text](https://raw.github.com/{Modern-Viking}/{nicks_portfolio}/{master}/{images/aboutme.png})
 
 * Portfolio:
+
 
 * Contact:
 
